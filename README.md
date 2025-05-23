@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firebase CRUD Demo
 
 A minimal React + Firebase Firestore CRUD application.
@@ -41,3 +42,6 @@ Embed your YouTube or Loom link below:
 
 ## Firestore Console
 Include a screenshot of the `items` collection here to show data modifications.
+=======
+# Firebase-CRUD-Demo
+>>>>>>> 0a666911c898ea036778ac9d470dd8d97067d39a
